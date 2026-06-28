@@ -4,6 +4,8 @@
     <string name="strSobreMim">Sobre Mim</string>
     <string name="strHobbies">Hobbies</string>
     <string name="strVideo">Video</string>
-    <string name="strHistoria"><![CDATA[Eu me chamo Alessandra Freitas de Oliveira, atualmente tenho 15 anos e nasci na cidade de Carapicuiba. \\nCurso o ensino médio e estou atualmente no 1° ano do colegial. Estudo na ETEC cursando Desenvolvimento de Sistemas e tenho dois cursos extras por fora, sendo eles de Desenvolvimento de Sistemas & Informática.]]></string>
+    <string name="strHistoria"><![CDATA[Eu me chamo Alessandra Freitas de Oliveira, atualmente tenho 15 anos e nasci na cidade de Carapicuiba.
+
+Curso o ensino médio e estou atualmente no 1° ano do colegial. Estudo na ETEC cursando Desenvolvimento de Sistemas e tenho dois cursos extras por fora, sendo eles de Desenvolvimento de Sistemas & Informática.]]></string>
     <string name="strVoltar">Voltar</string>
 </resources>
